@@ -16,7 +16,7 @@
  * @author		Montana Mendy
  * @copyright	        Copyright (c) 2017 - Gilead Sciences. (http://www.gilead.com/)
  * @license		http://opensource.org/licenses/OSL-3.0 Open Software License (OSL 3.0)
- * @link		http://www.giledsciences.com
+ * @link		http://www.gilead.com
  * @since		Version 1.0
  * @notation            Montana Mendy
  * @filesource
