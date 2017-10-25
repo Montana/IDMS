@@ -14,11 +14,11 @@
  * http://opensource.org/licenses/OSL-3.0
  * @package		IDMS
  * @author		Montana Mendy
- * @copyright	Copyright (c) 2017 - Gilead Sciences. (http://www.gilead.com/)
+ * @copyright	        Copyright (c) 2017 - Gilead Sciences. (http://www.gilead.com/)
  * @license		http://opensource.org/licenses/OSL-3.0 Open Software License (OSL 3.0)
  * @link		http://www.giledsciences.com
  * @since		Version 1.0
- * @notation    Montana Mendy
+ * @notation            Montana Mendy
  * @filesource
  */
 
