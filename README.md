@@ -5,4 +5,4 @@ Identity management system patch for Gilead Sciences, written in PHP by Montana 
 
 - Apache CouchDB - for single node database and clusters
 - MySQL with memcache, for scalability. Cannot use Redis via amount of data Gilead produces
-- PHP 7, with GD2 image libraries
+- PHP 7+, with GD2 image libraries
