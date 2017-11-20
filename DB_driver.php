@@ -1378,4 +1378,5 @@ abstract class CI_DB_driver {
 
 /* End of file DB_driver.php */
 /* Location: ./system/database/DB_driver.php */
-/* By Montana Mendy ^_^ for Gilead Sciences 
+
+/* By Montana Mendy for Gilead Sciences */ 
